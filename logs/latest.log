@@ -1,0 +1,324 @@
+[04Sep2026 01:47:12.859] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.neoForgeVersion, 21.1.238, --fml.fmlVersion, 4.0.43, --fml.mcVersion, 1.21.1, --fml.neoFormVersion, 20240808.144430]
+[04Sep2026 01:47:12.861] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: JVM identified as Ubuntu OpenJDK 64-Bit Server VM 21.0.12+8-1-24.04-Ubuntu
+[04Sep2026 01:47:12.862] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 11.0.5+main.901c6ea8 starting: java version 21.0.12 by Ubuntu; OS Linux arch amd64 version 6.8.0-138-generic
+[04Sep2026 01:47:13.000] [main/INFO] [net.neoforged.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[04Sep2026 01:47:13.037] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=union:/home/ms33/servidor_neo/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar%2373!/ Service=ModLauncher Env=SERVER
+[04Sep2026 01:47:13.223] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "server-1.21.1-20240808.144430-srg.jar" [locator: production server provider +net.neoforged:neoforge:21.1.238:server]
+[04Sep2026 01:47:13.240] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "neoforge-21.1.238-universal.jar" [locator: PathBasedLocator[name=neoforge, paths=[libraries/net/neoforged/neoforge/21.1.238/neoforge-21.1.238-universal.jar]], reader: mod manifest]
+[04Sep2026 01:47:13.248] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "1.21.1-maid_storage_manager-1.15.6.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.254] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "appleskin-neoforge-mc1.21-3.0.9.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.256] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "architectury-13.0.11-neoforge.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.261] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ArPhEx-5.0.2-neoforge-1.21.1.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.263] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "beltborne_lanterns-1.2.5-neoforge+1.21.1.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.265] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "cloth-config-15.0.140-neoforge.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.267] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.269] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "curios-neoforge-9.5.1+1.21.1.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.273] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "EclipticSeasons-1.21.1-neoforge-0.14.90-beta.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.276] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "FarmersDelight-1.21.1-1.3.3.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.286] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "ferritecore-7.0.3-neoforge.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.288] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "fzzy_config-0.7.6+1.21+neoforge.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.290] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "geckolib-neoforge-1.21.1-4.9.2.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.292] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "goatman-1.0.0.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.294] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "gravestone-neoforge-1.21.1-1.0.40.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.295] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Jade-1.21.1-NeoForge-15.10.6.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.297] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "jei-1.21.1-neoforge-19.44.0.403.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.299] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinforforge-5.12.0-all.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.302] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "maidmarriage-2.3.0beta-neoforge+mc1.21.1.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.305] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "mca-neoforge-7.7.36-beta.3+1.21.1.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.307] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "modernfix-neoforge-5.27.20+mc1.21.1.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.310] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "naturalist-2.0.3-neoforge-1.21.1.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.312] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "NaturesCompass-1.21.1-3.4.0-neoforge.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.314] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "Patchouli-1.21.1-93-NEOFORGE.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.315] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.317] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedbackpacks-1.21.1-3.25.78.2107.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.319] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "sophisticatedcore-1.21.1-1.4.90.2299.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.323] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.324] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "tacz-pack-upgrader-2.1.3.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.326] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "tacz_tactical_breaching-neoforge-1.21.1-1.0.4.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.330] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar" [locator: {mods folder locator at /home/ms33/servidor_neo/mods}, reader: mod manifest]
+[04Sep2026 01:47:13.699] [main/INFO] [net.neoforged.fml.loading.moddiscovery.locators.JarInJarDependencyLocator/]: Found 21 dependencies adding them to mods collection
+[04Sep2026 01:47:13.699] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "mixinextras-neoforge-0.5.3.jar" [parent: neoforge-21.1.238-universal.jar, locator: jarinjar, reader: mod manifest]
+[04Sep2026 01:47:13.699] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "tomlkt-jvm-0.3.7.jar" [parent: fzzy_config-0.7.6+1.21+neoforge.jar, locator: jarinjar]
+[04Sep2026 01:47:13.699] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "luaj-core-3.0.8-figura.jar" [parent: tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar, locator: jarinjar]
+[04Sep2026 01:47:13.699] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-coroutines-jdk8-1.11.0.jar" [parent: kotlinforforge-5.12.0-all.jar, locator: jarinjar]
+[04Sep2026 01:47:13.700] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "net.neoforged.neoforge-coremods-21.1.238.jar" [parent: neoforge-21.1.238-universal.jar, locator: jarinjar, reader: mod manifest]
+[04Sep2026 01:47:13.700] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-jdk7-2.4.0.jar" [parent: kotlinforforge-5.12.0-all.jar, locator: jarinjar]
+[04Sep2026 01:47:13.700] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-jdk8-2.4.0.jar" [parent: kotlinforforge-5.12.0-all.jar, locator: jarinjar]
+[04Sep2026 01:47:13.700] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "mae-1.1.2.jar" [parent: simplebedrockmodel-2.2.1-neoforge+mc1.21.1.jar, locator: jarinjar]
+[04Sep2026 01:47:13.700] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "thedarkcolour.kfflang-5.12.0.jar" [parent: kotlinforforge-5.12.0-all.jar, locator: jarinjar, reader: mod manifest]
+[04Sep2026 01:47:13.700] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "bcel-6.6.1.jar" [parent: tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar, locator: jarinjar]
+[04Sep2026 01:47:13.700] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "luaj-jse-3.0.8-figura.jar" [parent: tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar, locator: jarinjar]
+[04Sep2026 01:47:13.700] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found gamelibrary file "thedarkcolour.kfflib-5.12.0.jar" [parent: kotlinforforge-5.12.0-all.jar, locator: jarinjar, reader: mod manifest]
+[04Sep2026 01:47:13.700] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-serialization-core-jvm-1.11.0.jar" [parent: kotlinforforge-5.12.0-all.jar, locator: jarinjar]
+[04Sep2026 01:47:13.701] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "thedarkcolour.kffmod-5.12.0.jar" [parent: kotlinforforge-5.12.0-all.jar, locator: jarinjar, reader: mod manifest]
+[04Sep2026 01:47:13.701] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-reflect-2.4.0.jar" [parent: kotlinforforge-5.12.0-all.jar, locator: jarinjar]
+[04Sep2026 01:47:13.701] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlin-stdlib-2.4.0.jar" [parent: kotlinforforge-5.12.0-all.jar, locator: jarinjar]
+[04Sep2026 01:47:13.701] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-serialization-json-jvm-1.11.0.jar" [parent: kotlinforforge-5.12.0-all.jar, locator: jarinjar]
+[04Sep2026 01:47:13.701] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found mod file "simplebedrockmodel-2.2.1-neoforge+mc1.21.1.jar" [parent: tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar, locator: jarinjar, reader: mod manifest]
+[04Sep2026 01:47:13.701] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "commons-math3-3.6.1.jar" [parent: tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar, locator: jarinjar]
+[04Sep2026 01:47:13.701] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "kotlinx-coroutines-core-jvm-1.11.0.jar" [parent: kotlinforforge-5.12.0-all.jar, locator: jarinjar]
+[04Sep2026 01:47:13.701] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Found library file "jankson-1.2.3.jar" [parent: fzzy_config-0.7.6+1.21+neoforge.jar, locator: jarinjar]
+[04Sep2026 01:47:13.703] [main/INFO] [net.neoforged.fml.loading.moddiscovery.ModDiscoverer/]: 
+     Mod List:
+		Name Version (Mod Id)
+
+		AppleSkin 3.0.9+mc1.21 (appleskin)
+		Architectury 13.0.11 (architectury)
+		Arthropod Phobia Expansions 5.0.2 (arphex)
+		Beltborne Lanterns 1.2.5 (beltborne_lanterns)
+		Cloth Config v15 API 15.0.140 (cloth_config)
+		CreativeCore 2.13.44 (creativecore)
+		Curios API 9.5.1+1.21.1 (curios)
+		Ecliptic Seasons 0.14.90-beta (eclipticseasons)
+		Farmer's Delight 1.3.3 (farmersdelight)
+		Ferrite Core 7.0.3 (ferritecore)
+		Fzzy Config 0.7.6+1.21+neoforge (fzzy_config)
+		GeckoLib 4 4.9.2 (geckolib)
+		Goatman Neoforge 1.0.0 (goatman)
+		Gravestone Mod 1.21.1-1.0.40 (gravestone)
+		Jade 15.10.6+neoforge (jade)
+		Just Enough Items 19.44.0.403 (jei)
+		Kotlin For Forge 5.12.0 (kotlinforforge)
+		maid storage manager 1.15.6 (maid_storage_manager)
+		Minecraft 1.21.1 (minecraft)
+		Minecraft Comes Alive 7.7.36-beta.3+1.21.1 (mca)
+		ModernFix 5.27.20+mc1.21.1 (modernfix)
+		Naturalist 2.0.3 (naturalist)
+		Nature's Compass 1.21.1-3.4.0-neoforge (naturescompass)
+		NeoForge 21.1.238 (neoforge)
+		Patchouli 1.21.1-93-NEOFORGE (patchouli)
+		PlayerRevive 2.1.2 (playerrevive)
+		SimpleBedrockModel 2.2.1-neoforge+mc1.21.1 (simplebedrockmodel)
+		Sophisticated Backpacks 3.25.78 (sophisticatedbackpacks)
+		Sophisticated Core 1.4.90 (sophisticatedcore)
+		TaCZ Pack Upgrader 2.1.3 (taczpackupgrader)
+		TaCZ Tactical Breaching 1.0.4 (tacz_tactical_breaching)
+		Timeless & Classics Guns: Zero 1.1.8-hotfix-r6 (tacz)
+		Touhou Little Maid 1.5.3-neoforge+mc1.21.1 (touhou_little_maid)
+		Touhou Little Maid: Heart Pact 2.3.0beta (maidmarriage)
+[04Sep2026 01:47:14.229] [main/INFO] [mixin/]: Compatibility level set to JAVA_21
+[04Sep2026 01:47:14.310] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[04Sep2026 01:47:14.371] [main/WARN] [mixin/]: Reference map 'mca.refmap.json' for mca.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.372] [main/WARN] [mixin/]: Reference map 'geckolib.refmap.json' for geckolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.372] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.375] [main/WARN] [mixin/]: Reference map 'creativecore.mixins.refmap.json' for creativecore.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.444] [main/WARN] [mixin/]: Reference map 'eclipticseasons.refmap.json' for eclipticseasons.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.450] [main/WARN] [mixin/]: Reference map 'tacz.refmap.json' for tacz.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.451] [main/WARN] [mixin/]: Reference map 'tacz.refmap.json' for tacz.compat.acceleratedrendering.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.456] [main/WARN] [mixin/]: Reference map 'touhou_little_maid.refmap.json' for touhou_little_maid.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.457] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.neoforge.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.457] [main/WARN] [mixin/]: Reference map 'curios.refmap.json' for curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.457] [main/WARN] [mixin/]: Reference map 'patchouli.refmap.json' for patchouli_xplat.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.457] [main/WARN] [mixin/]: Reference map 'simplebedrockmodel.refmap.json' for simplebedrockmodel.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.578] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.27.20+mc1.21.1: 89 options available, 0 override(s) found
+[04Sep2026 01:47:14.582] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[04Sep2026 01:47:14.602] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.predicates.mixin.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.605] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.fastmap.mixin.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.606] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.mrl.mixin.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.607] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.dedupmultipart.mixin.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.610] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.blockstatecache.mixin.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.611] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.dedupbakedquad.mixin.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.626] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.threaddetec.mixin.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.627] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.modelsides.mixin.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.627] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.datacomponents.mixin.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.628] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for ferritecore.accessors.mixin.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.629] [main/WARN] [mixin/]: Reference map 'maid_storage_manager.refmap.json' for maid_storage_manager.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.629] [main/WARN] [mixin/]: Reference map 'playerrevive.mixin.refmap.json' for playerrevive.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:14.629] [main/WARN] [mixin/]: Reference map 'maidmarriage-refmap.json' for maidmarriage.mixins.json could not be read. If this is a development environment you can ignore this message
+[04Sep2026 01:47:15.011] [main/WARN] [mixin/]: Error loading class: com/mrcrayfish/controllable/client/binding/context/BindingContext (java.lang.ClassNotFoundException: com.mrcrayfish.controllable.client.binding.context.BindingContext)
+[04Sep2026 01:47:15.178] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/logistics/stockTicker/StockKeeperCategoryMenu (java.lang.ClassNotFoundException: com.simibubi.create.content.logistics.stockTicker.StockKeeperCategoryMenu)
+[04Sep2026 01:47:15.178] [main/WARN] [mixin/]: @Mixin target com.simibubi.create.content.logistics.stockTicker.StockKeeperCategoryMenu was not found maid_storage_manager.mixins.json:CreateStockKeeperMenuMixin from mod maid_storage_manager
+[04Sep2026 01:47:15.180] [main/WARN] [mixin/]: Error loading class: mezz/jei/gui/elements/GuiIconToggleButton (java.lang.ClassNotFoundException: mezz.jei.gui.elements.GuiIconToggleButton)
+[04Sep2026 01:47:15.180] [main/WARN] [mixin/]: @Mixin target mezz.jei.gui.elements.GuiIconToggleButton was not found maid_storage_manager.mixins.json:JeiGuiIconToggleButtonAccessor from mod maid_storage_manager
+[04Sep2026 01:47:15.180] [main/WARN] [mixin/]: Error loading class: mezz/jei/gui/recipes/RecipeTransferButton (java.lang.ClassNotFoundException: mezz.jei.gui.recipes.RecipeTransferButton)
+[04Sep2026 01:47:15.181] [main/WARN] [mixin/]: @Mixin target mezz.jei.gui.recipes.RecipeTransferButton was not found maid_storage_manager.mixins.json:JEIRecipeTransferHook from mod maid_storage_manager
+[04Sep2026 01:47:15.186] [main/WARN] [mixin/]: Error loading class: com/elfmcys/yesstevemodel/Oo000O00O0OOoO00OOOO000O (java.lang.ClassNotFoundException: com.elfmcys.yesstevemodel.Oo000O00O0OOoO00OOOO000O)
+[04Sep2026 01:47:15.323] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.3).
+[04Sep2026 01:47:15.633] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (3.699 s after launch)
+[04Sep2026 01:47:15.817] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into redirect$zjp000$modernfix$genCacheBeforeGettingTicking from org.embeddedt.modernfix.common.mixin.perf.reduce_blockstate_cache_rebuilds.BlockStateBaseMixin
+[04Sep2026 01:47:16.866] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method getTemperature in modernfix-modernfix.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[04Sep2026 01:47:19.020] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3383 milliseconds
+[04Sep2026 01:47:19.115] [modloading-worker-0/INFO] [Beltborne Lanterns/]: Initializing v1.2.5 [NeoForge]
+[04Sep2026 01:47:19.333] [modloading-worker-0/INFO] [net.neoforged.neoforge.common.NeoForgeMod/NEOFORGE-MOD]: NeoForge mod loading, version 21.1.238, for MC 1.21.1
+[04Sep2026 01:47:19.413] [modloading-worker-0/INFO] [touhou_little_maid/]: common default pack init start...
+[04Sep2026 01:47:19.465] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.neoforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[04Sep2026 01:47:19.709] [modloading-worker-0/INFO] [touhou_little_maid/]: common default pack init finished, cost time: 294.931 ms
+[04Sep2026 01:47:20.848] [modloading-sync-worker/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[04Sep2026 01:47:20.848] [modloading-sync-worker/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[04Sep2026 01:47:20.848] [modloading-sync-worker/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[04Sep2026 01:47:20.848] [modloading-sync-worker/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[04Sep2026 01:47:20.848] [modloading-sync-worker/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[04Sep2026 01:47:20.848] [modloading-sync-worker/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[04Sep2026 01:47:20.848] [modloading-sync-worker/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[04Sep2026 01:47:20.848] [modloading-sync-worker/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[04Sep2026 01:47:20.848] [modloading-sync-worker/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[04Sep2026 01:47:20.897] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/neoforge/gravestone
+[04Sep2026 01:47:21.115] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.vanilla.VanillaPlugin
+[04Sep2026 01:47:21.130] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.universal.UniversalPlugin
+[04Sep2026 01:47:21.133] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.debug.DebugPlugin
+[04Sep2026 01:47:21.134] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.core.CorePlugin
+[04Sep2026 01:47:21.134] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from snownee.jade.addon.access.AccessibilityPlugin
+[04Sep2026 01:47:21.135] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from com.teamtea.eclipticseasons.compat.jade.JadeCompact
+[04Sep2026 01:47:21.135] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from com.github.tartaricacid.touhoulittlemaid.compat.jade.JadePlugin
+[04Sep2026 01:47:21.136] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[04Sep2026 01:47:21.137] [modloading-worker-0/INFO] [snownee.jade.Jade/]: Start loading plugin from studio.fantasyit.maid_storage_manager.integration.jade.JadePlugin
+[04Sep2026 01:47:21.458] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04Sep2026 01:47:21.525] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/ms33/servidor_neo/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23148!/assets/.mcassetsroot' uses unexpected schema
+[04Sep2026 01:47:21.525] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/ms33/servidor_neo/libraries/net/minecraft/server/1.21.1-20240808.144430/server-1.21.1-20240808.144430-srg.jar%23148!/data/.mcassetsroot' uses unexpected schema
+[04Sep2026 01:47:21.608] [main/INFO] [tacz/GunPackFinder]: Start scanning for gun packs in /home/ms33/servidor_neo/tacz
+[04Sep2026 01:47:21.609] [main/INFO] [tacz/GunPackFinder]: - tacz_default_gun, Main namespace: tacz
+[04Sep2026 01:47:21.609] [main/INFO] [tacz/GunPackFinder]: Found 1 possible gunpack(s) and added them to resource set.
+[04Sep2026 01:47:21.740] [NeoForge Version Check/INFO] [net.neoforged.fml.VersionChecker/]: [gravestone] Found status: UP_TO_DATE Current: 1.21.1-1.0.40 Target: null
+[04Sep2026 01:47:22.645] [Worker-Main-4/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag maid_storage_manager:create_package_container as it is missing following references: 
+	create:belt (from mod/maid_storage_manager)
+	create:depot (from mod/maid_storage_manager)
+	create:package_frogport (from mod/maid_storage_manager)
+	create:weighted_ejector (from mod/maid_storage_manager)
+	create:chute (from mod/maid_storage_manager)
+	create:basin (from mod/maid_storage_manager)
+	create:packager (from mod/maid_storage_manager)
+	create:smart_chute (from mod/maid_storage_manager)
+[04Sep2026 01:47:22.849] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 2462 recipes
+[04Sep2026 01:47:23.063] [main/INFO] [net.minecraft.advancements.AdvancementTree/]: Loaded 2172 advancements
+[04Sep2026 01:47:23.103] [main/INFO] [Curios API/]: Loaded 10 curio slots
+[04Sep2026 01:47:23.105] [main/ERROR] [Curios API/]: scroll is not a registered slot type!
+[04Sep2026 01:47:23.105] [main/ERROR] [Curios API/]: feet is not a registered slot type!
+[04Sep2026 01:47:23.105] [main/ERROR] [Curios API/]: spellbook is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: tiab is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: accessory is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: tcc_slot is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: dog_tag is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: iff is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: klein_star is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: mmt_emblem is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: nightmare is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: medicine is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: necora is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: nanos is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: ncrdna is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: dna is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: crystal is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: stone is not a registered slot type!
+[04Sep2026 01:47:23.106] [main/ERROR] [Curios API/]: man is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: pocket_left is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: pocket_right is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: legendarycurios is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: unlegendarycurios is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: boot is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: set_source is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: set_diverse is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: set_unity is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: set_threshold is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: set_final is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: glasses is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: hipornament is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: hostility_curse is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: artifact_head is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: artifact_necklace is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: artifact_bracelet is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: artifact_body is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: artifact_belt is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: deep_learner is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: shoulder is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: gtceu_magnet is not a registered slot type!
+[04Sep2026 01:47:23.107] [main/ERROR] [Curios API/]: soul is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: spellstone is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: quiver is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: pandora_charm is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: scroll is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: feet is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: spellbook is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: scroll is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: pendant is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: heart is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: catastrophe is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: etching is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: heart_amulet is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: an_focus is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: ionocraft_backpack is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: goggles is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: charms is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: aether_accessory is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: aether_cape is not a registered slot type!
+[04Sep2026 01:47:23.108] [main/ERROR] [Curios API/]: aether_gloves is not a registered slot type!
+[04Sep2026 01:47:23.109] [main/ERROR] [Curios API/]: aether_pendant is not a registered slot type!
+[04Sep2026 01:47:23.109] [main/ERROR] [Curios API/]: aether_ring is not a registered slot type!
+[04Sep2026 01:47:23.109] [main/ERROR] [Curios API/]: aether_shield is not a registered slot type!
+[04Sep2026 01:47:23.109] [main/INFO] [Curios API/]: Loaded 3 curio entities
+[04Sep2026 01:47:23.233] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: eclipticseasons:rain/arid
+[04Sep2026 01:47:23.246] [main/INFO] [Beltborne Lanterns/]: Lamp registry ready: 2 items (2 builtin, 0 extra)
+[04Sep2026 01:47:23.283] [main/INFO] [eclipticseasons/]: Reload crop data cost 11 ms in server side.
+[04Sep2026 01:47:23.285] [main/INFO] [eclipticseasons/]: Has registered extra snow definitions with size 6.
+[04Sep2026 01:47:23.513] [main/WARN] [ModernFix/]: Initial datapack load took 1.972 s
+[04Sep2026 01:47:23.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.21.1
+[04Sep2026 01:47:23.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[04Sep2026 01:47:23.569] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[04Sep2026 01:47:23.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[04Sep2026 01:47:23.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[04Sep2026 01:47:23.653] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[04Sep2026 01:47:23.676] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04Sep2026 01:47:23.676] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[04Sep2026 01:47:23.676] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04Sep2026 01:47:23.676] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[04Sep2026 01:47:23.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[04Sep2026 01:47:24.001] [Server thread/WARN] [net.arphex.ArphexMod/]: [LEVEL LOAD] minecraft:overworld
+[04Sep2026 01:47:24.020] [Server thread/WARN] [net.arphex.ArphexMod/]: [LEVEL LOAD] minecraft:the_end
+[04Sep2026 01:47:24.027] [Server thread/WARN] [net.arphex.ArphexMod/]: [LEVEL LOAD] arphex:the_crawling
+[04Sep2026 01:47:24.032] [Server thread/WARN] [net.arphex.ArphexMod/]: [LEVEL LOAD] minecraft:the_nether
+[04Sep2026 01:47:24.035] [Server thread/WARN] [net.arphex.ArphexMod/]: [LEVEL LOAD] arphex:the_webrooms
+[04Sep2026 01:47:24.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[04Sep2026 01:47:24.434] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[04Sep2026 01:47:24.565] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 528 ms
+[04Sep2026 01:47:24.565] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (0.881s)! For help, type "help"
+[04Sep2026 01:47:24.625] [Server thread/INFO] [net.neoforged.neoforge.server.permission.PermissionAPI/]: Successfully initialized permission handler neoforge:default_handler
+[04Sep2026 01:47:24.626] [Server thread/INFO] [Beltborne Lanterns/]: Lamp registry ready: 2 items (2 builtin, 0 extra)
+[04Sep2026 01:47:24.635] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[04Sep2026 01:47:24.635] [Server thread/WARN] [ModernFix/]: Dedicated server took 12.702 seconds to load
+[04Sep2026 01:47:30.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M4ST3RPR0[/127.137.205.19:57649] logged in with entity id 67 at (-376.7598949676598, 90.0, 622.4820045482596)
+[04Sep2026 01:47:30.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 joined the game
+[04Sep2026 01:47:32.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Donvergas[/127.180.136.86:48107] logged in with entity id 342 at (-321.79977279363646, 66.0, 535.4239839073297)
+[04Sep2026 01:47:32.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas joined the game
+[04Sep2026 01:47:42.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M4ST3RPR0: Set own game mode to Creative Mode]
+[04Sep2026 01:50:14.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has made the advancement [Monster Hunter]
+[04Sep2026 01:50:52.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Cover Me with Diamonds]
+[04Sep2026 01:50:57.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Gearing Up]
+[04Sep2026 01:51:17.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Pack It Up]
+[04Sep2026 01:51:41.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has made the advancement [Cover Me with Diamonds]
+[04Sep2026 01:53:38.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Voice Acting]
+[04Sep2026 01:56:38.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M4ST3RPR0: Set own game mode to Survival Mode]
+[04Sep2026 01:56:54.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Monster Hunter]
+[04Sep2026 01:56:56.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Keep Track of Time]
+[04Sep2026 01:59:49.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [M4ST3RPR0: Set the weather to clear]
+[04Sep2026 02:00:57.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Donvergas) moved wrongly! 0.27390764835513437
+[04Sep2026 02:00:57.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Donvergas) moved wrongly! 0.2796946838858503
+[04Sep2026 02:00:57.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Donvergas) moved wrongly! 0.35141756582322614
+[04Sep2026 02:00:57.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Oak Boat (vehicle of Donvergas) moved wrongly! 0.46032326310614735
+[04Sep2026 02:07:37.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has made the advancement [Gearing Up]
+[04Sep2026 02:09:22.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Crops of the Wild]
+[04Sep2026 02:09:56.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has reached the goal [Little Hunter]
+[04Sep2026 02:09:56.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Annoying Little Faes]
+[04Sep2026 02:09:58.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Taste the Rainbow]
+[04Sep2026 02:11:40.601] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4ST3RPR0 lost connection: Disconnected
+[04Sep2026 02:11:40.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 left the game
+[04Sep2026 02:12:59.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has made the advancement [Taste the Rainbow]
+[04Sep2026 02:13:06.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has made the advancement [Keep Track of Time]
+[04Sep2026 02:13:53.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has made the advancement [Crimson Promise]
+[04Sep2026 02:17:58.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has made the advancement [Cosplay!]
+[04Sep2026 02:19:51.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has made the advancement [Sunny Affection]
+[04Sep2026 02:19:56.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has made the advancement [Pure Vow]
+[04Sep2026 02:23:34.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has made the advancement [Job-Change]
+[04Sep2026 02:26:37.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has made the advancement [Acquire Hardware]
+[04Sep2026 02:28:51.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has made the advancement [Suit Up]
+[04Sep2026 02:33:55.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has reached the goal [Little Hunter]
+[04Sep2026 02:34:48.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas has made the advancement [Annoying Little Faes]
+[04Sep2026 02:38:06.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Donvergas lost connection: Disconnected
+[04Sep2026 02:38:06.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas left the game
+[04Sep2026 02:38:06.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Donvergas withered away
+[04Sep2026 02:38:06.045] [Server thread/INFO] [gravestone/]: The death ID of player Donvergas is 715868c1-13e6-43bb-b68f-ca74d15ba154
+[04Sep2026 22:27:07.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: M4ST3RPR0[/127.137.205.19:36885] logged in with entity id 17322 at (1450.3869477682258, 65.0, -458.56409104668273)
+[04Sep2026 22:27:07.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 joined the game
+[04Sep2026 22:31:10.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Acquire Hardware]
+[04Sep2026 22:32:20.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Suit Up]
+[04Sep2026 22:36:22.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 has made the advancement [Diamonds!]
+[04Sep2026 22:43:51.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: M4ST3RPR0 lost connection: Disconnected
+[04Sep2026 22:43:51.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: M4ST3RPR0 left the game
